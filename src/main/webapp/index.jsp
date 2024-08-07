@@ -192,7 +192,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h2>DevOps Job Application Form</h2>
+          <h1>DevOps Job Application Form</h>
         </div>
         <div align="left">
  
