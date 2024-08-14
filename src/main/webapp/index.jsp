@@ -16,7 +16,7 @@
       color: #012;
       line-height:29px;
       }
-      h1 {
+      h1   {  
       position: absolute;
       margin: 0;
       font-size: 200px;
